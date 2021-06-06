@@ -1,4 +1,4 @@
-# Projet de master 1 : Visualisation Python
+# Projet de master 1ère année : Visualisation Python
 Visualisation de données avec Python/Bokeh
 
 # Modules à installer avant de lancer l'application :
