@@ -36,6 +36,9 @@ Avant de réaliser les étapes pour ouvrir l'application, il faut bien vérifier
 - Taper : bokeh serve --show Script.py
 - L'application s'ouvre
 
+# Aperçu de l'application
+Le fichier *BokehAppDisplay.avi* disponible sur le GitHub est une brève présentation l'application, libre à vous de le télécharger.
+
 # Auteurs
 - DABOUDET Claire
 - DURAND HARDY François
