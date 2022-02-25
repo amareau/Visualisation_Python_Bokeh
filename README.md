@@ -39,7 +39,7 @@ Avant de réaliser les étapes pour ouvrir l'application, il faut bien vérifier
 # Aperçu de l'application
 Le fichier *BokehAppDisplay.avi* disponible sur le GitHub est une brève présentation l'application, libre à vous de le télécharger et de le visionner.
 
-# Auteurs
+# Autrice et Auteurs
 - DABOUDET Claire
 - DURAND HARDY François
 - MAREAU Alexis
